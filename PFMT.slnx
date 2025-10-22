@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/PFMT.App/PFMT.App.csproj" Id="d3f5952e-7725-4451-96b0-54be86de31fa" />
+  <Project Path="src/PFMT.AppHost/PFMT.AppHost.csproj" Id="32288bb8-6032-4e20-b055-c5366f524d72" />
+  <Project Path="src/PFMT.Domain/PFMT.Domain.csproj" Id="86ee28bc-8a3a-4fd5-b132-d47cb20a6d41" />
+  <Project Path="src/PFMT.Infastructure/PFMT.Infastructure.csproj" Id="5732f363-e958-4719-9354-497cd1559445" />
+  <Project Path="src/PFMT.Server/PFMT.Server.csproj" />
+  <Project Path="src/PFMT.ServiceDefaults/PFMT.ServiceDefaults.csproj" />
+</Solution>
