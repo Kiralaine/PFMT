@@ -10,4 +10,12 @@
     <ProjectReference Include="..\PFMT.App\PFMT.App.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Persistence\Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.21" />
+  </ItemGroup>
+
 </Project>
